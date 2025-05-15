@@ -9,7 +9,7 @@ mkdir dir
 #move to the directory
 cd dir
 
-#create two  files inside vleena directory
+#create two  files inside dir directory
 touch file1 file2
 
 
